@@ -9,6 +9,6 @@ My information:
 
 Linkedin: www.linkedin.com/in/wing-it
 
-Portfolio: https://wingdemo.azurewebsites.net
+Portfolio: wingdemo.azurewebsites.net
 
 E-mail: ozwinghk@gmail.com
